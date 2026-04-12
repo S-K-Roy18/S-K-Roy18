@@ -9,7 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Cool+Projects🚀;Always+Learning+New+Things">
 </p>
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<p align="center">
+  <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
 ---
 
