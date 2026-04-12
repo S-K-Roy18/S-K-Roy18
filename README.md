@@ -1,47 +1,78 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Surya%20Kanta%20Roy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Surya%20Kanta%20Roy&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Surya Kanta Roy</h1>
 <h3 align="center">Full Stack Developer | AI & ML Enthusiast | Building Real-World Projects 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Surya+Kanta+Roy;Full+Stack+Developer;AI+ML+Enthusiast;Building+Cool+Projects🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Cool+Projects🚀;Always+Learning+New+Things">
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+---
+
+## 🚀 Featured Project
+
+### 🏋️ FitTrack - Fitness Tracking Web App
+- 🔹 A full-stack fitness tracking application to monitor workouts and progress  
+- 🔹 Features: User authentication, workout tracking, progress visualization  
+- 🔹 Tech Stack: React, Node.js, MongoDB  
+
+🔗 Live: https://fit-track-hazel.vercel.app/  
+🔗 GitHub: https://github.com/s-k-roy18
+
+---
+
+## 🧠 About Me
+
+- 🔭 Currently working on **MealHub**
+- 🌱 Learning **Machine Learning & System Design**
+- 👯 Open to collaborate on **Full Stack Projects**
+- 💬 Ask me about **React, Node.js, MongoDB, Java**
+- ⚡ Fun fact: *I turn ideas into real-world applications 🚀*
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=s-k-roy18" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman" />
 </p>
 
-- 🔭 I’m currently working on **MealHub - A full-stack mess meal management system for efficient tracking and management**
+---
 
-- 🌱 I’m currently learning **Machine Learning, System Design, and Advanced React**
+## 📊 GitHub Stats
 
-- 👯 I’m looking to collaborate on [Full Stack Web Development Projects (React + Node.js)](https://github.com/s-k-roy18)
-
-- 🤝 I’m looking for help with **Advanced System Design & Scalable Backend Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/s-k-roy18](https://github.com/s-k-roy18)
-
-- 💬 Ask me about **Full Stack Development, React, Node.js, MongoDB, and Java**
-
-- 📫 How to reach me **suryarahulroy321@gmail.com**
-
-- ⚡ Fun fact **I love building real-world projects that actually solve problems 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/surya-kanta-roy-363866338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surya-kanta-roy-363866338/" height="30" width="40" /></a>
-<a href="https://instagram.com/_.skr._18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.skr._18" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s-k-roy18&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-k-roy18&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-k-roy18&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-k-roy18&show_icons=true&locale=en&layout=compact" alt="s-k-roy18" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-k-roy18&show_icons=true&locale=en" alt="s-k-roy18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-k-roy18&" alt="s-k-roy18" /></p>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/surya-kanta-roy-363866338/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:suryarahulroy321@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://instagram.com/_.skr._18">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
+</p>
