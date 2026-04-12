@@ -11,7 +11,9 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-k-roy18" alt="s-k-roy18" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=s-k-roy18" />
+</p>
 
 - 🔭 I’m currently working on **MealHub - A full-stack mess meal management system for efficient tracking and management**
 
