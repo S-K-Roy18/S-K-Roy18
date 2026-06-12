@@ -26,7 +26,7 @@
 - 🔹 Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
 
 🔗 Live: https://meal-hub-gcmc.vercel.app/
-🔗 GitHub: https://github.com/s-k-roy18
+🔗 GitHub: [https://github.com/s-k-roy18](https://github.com/S-K-Roy18/MealHub)
 
 ---
 
