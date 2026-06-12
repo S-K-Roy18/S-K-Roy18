@@ -15,14 +15,17 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Project 
 
-### 🏋️ FitTrack - Fitness Tracking Web App
-- 🔹 A full-stack fitness tracking application to monitor workouts and progress  
-- 🔹 Features: User authentication, workout tracking, progress visualization  
-- 🔹 Tech Stack: React, Node.js, MongoDB  
+### 🍽️ MealHub - Smart Meal & Inventory Management System 
 
-🔗 Live: https://fit-track-hazel.vercel.app/  
+- 🔹 A full-stack web application designed to simplify meal, inventory, and expense management for shared living.
+- 🔹 Features include meal tracking, inventory management, rice bag and gas stock monitoring, expense tracking, monthly reports, and analytics dashboards.
+- 🔹 Helps hostels, messes, restaurants, and communities manage food resources efficiently while reducing wastage.
+- 🔹 Provides real-time insights into stock consumption, expenses, and meal statistics.
+- 🔹 Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
+
+🔗 Live: https://meal-hub-gcmc.vercel.app/
 🔗 GitHub: https://github.com/s-k-roy18
 
 ---
