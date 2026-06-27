@@ -6,7 +6,7 @@
 <h3 align="center">Full Stack Developer | UI/UX Designer | Building Real-World Projects 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Cool+Projects🚀;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;UI+/+UX+Designer;Building+Cool+Projects🚀;Always+Learning+New+Things">
 </p>
 
 <p align="center">
