@@ -32,8 +32,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **MealHub**
-- 🌱 Learning **Machine Learning & System Design**
+- 🌱 Learning **Full Stack & System Design**
 - 👯 Open to collaborate on **Full Stack Projects**
 - 💬 Ask me about **React, Node.js, MongoDB, Java**
 - ⚡ Fun fact: *I turn ideas into real-world applications 🚀*
